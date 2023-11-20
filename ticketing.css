@@ -1,0 +1,25 @@
+body{
+    font-family: "",cursive, sans-serif;
+    background: white;
+    /* max-width: 1000px; */
+    margin: 0 auto;
+}
+.product {
+    border: 1px solid grey;
+    width: 200px;
+    margin: 5px;
+    padding: 10px;
+    display: inline-block;
+     }
+.normal{
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+.tag{ 
+    display: flex;
+    flex-wrap: nowrap;
+    padding-left: 75%;
+    
+
+}
